@@ -1,0 +1,14 @@
+[
+        {
+                "id":                   "mp3_url",
+                "label":                "URL for MP3 stream",
+                "type":         "text",
+                "default":      "http://icecast.timlradio.co.uk:80/ac128.mp3",
+        },
+        {
+                "id":                   "stream_title",
+                "label":                "Radio station name",
+                "type":         "text",
+                "default":      "Absolute Classic Rock",
+        },
+]
